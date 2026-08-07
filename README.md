@@ -5,9 +5,7 @@
 ◆ Origin → Brazil                 
 ◆ Stack → Python / FastAPI / Flask 
 ◆ Studying → SQLAlchemy / SQL     
-</pre> <br> <img src="jpg(20)" width="90%"/> </td> <td width="50%" align="center" valign="top"> <img src="banner.gif" width="100%"/> <br>
-
-<sub><b>@nahnishiura</b></sub>
+</pre> <br> 
 
 </td> </tr> </table> <br>
 
