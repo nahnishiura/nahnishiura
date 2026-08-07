@@ -59,7 +59,7 @@
 
 ### Contribution Graph
 
-<p align="center"> <img src="animesher_com_gif-dark-black-and-white-1596080.gif" width="100%"/> </p> <br>
+<p align="center"> <img src="オリオン_♑.gif" width="100%"/> </p> <br>
 
 ## 📊 Linguagens & Repositórios
 
