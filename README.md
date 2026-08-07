@@ -54,21 +54,7 @@
 
 ## 📈 Statistics
 
-<table>
-<tr>
-<table> <tr> <td width="40%" align="center"> <img src="(𔙆 ' ' )᪲𓏗 ׁ─꯭𝐈𝖼𝗈𝗇 ゛ 𝖻𝘆 ✿ 𝐌𝖾.jpg"
-<td width="35%" align="center">
-
-<img src="stats.gif" width="100%"/>
-
-</td>
-<td width="65%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=E5E7EB" width="100%"/>
-
-</td>
-</tr>
-</table>
+<table> <tr> <td width="35%" align="center"> <img src="stats.jpg" width="100%"/> </td> <td width="65%" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=E5E7EB" width="100%"/> </td> </tr> </table>
 
 ### Contribution Graph
 
