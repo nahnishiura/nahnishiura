@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="missa (2).jpg" width="90%"/>
+<img src="Victoria.jpeg" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
