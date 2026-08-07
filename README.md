@@ -4,13 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" />
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=nahnishiura&label=PROFILE+VIEWS&color=6D28D9&style=flat" alt="profile views"/>
-
-<br><br>
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ```
 ◆ Class    → Backend / Full-Stack Apprentice
@@ -76,8 +74,8 @@
 ## 📊 Linguagens & Repositórios
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahnishiura&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFFFFF&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahnishiura&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=E5E7EB&bg_color=0D1117"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nahnishiura&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFFFFF&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nahnishiura&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=E5E7EB&bg_color=0D1117"/>
 </p>
 
 <br>
