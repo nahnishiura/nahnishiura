@@ -42,14 +42,14 @@
 
 <br>
 
-## 👩‍💻 Sobre mim
+## 𝜗ৎ Sobre mim
 
-- 🎓 Focada em **desenvolvimento Backend**
-- ⚡ Já sei construir APIs com **FastAPI**
-- 🐍 Também tenho experiência com **Flask**
-- 🗃️ Atualmente estudando **SQLAlchemy** e **SQL**
-- 💻 Atualmente usando sistema operacional **Linux**
-- 🌱 Sempre buscando entender melhor como sistemas funcionam por trás das telas
+-  ׅ 🪷Focada em **desenvolvimento Backend**
+-  ׅ 🪷Já sei construir APIs com **FastAPI**
+-  ׅ 🪷Também tenho experiência com **Flask**
+-  ׅ 🪷Atualmente estudando **SQLAlchemy** e **SQL**
+-  ׅ 🪷Atualmente usando sistema operacional **Linux**
+-  ׅ 🪷Sempre buscando entender melhor como sistemas funcionam por trás das telas
 
 <br>
 
