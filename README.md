@@ -11,7 +11,8 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class    → Backend ◆ Origin   → Brazil 
+◆ Class    → Backend
+◆ Origin   → Brazil 
 ◆ Stack    → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL
 ```
@@ -35,7 +36,7 @@
 
 <br>
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 - 🎓 Focada em **desenvolvimento Backend**
 - ⚡ Já sei construir APIs com **FastAPI**
