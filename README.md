@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20Juju%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI&descAlignY=55&descSize=18" width="100%"/>
+<img src="banner.gif" width="100%"/>
 
 </div>
 
+<h1 align="center">Olá, eu sou a Nishiura 👋</h1>
 <h3 align="center">🚀 Estudante de Backend | Apaixonada por construir APIs sólidas</h3>
 
 <p align="center">
