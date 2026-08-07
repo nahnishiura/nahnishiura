@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="Victoria.jpeg" width="90%"/>
+<img src="gif" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
