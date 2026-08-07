@@ -11,10 +11,10 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class → Backend
-◆ Origin → Brazil 
+◆ Class → Backend                      
+◆ Origin → Brazil                 
 ◆ Stack → Python / FastAPI / Flask
-◆ Studying → SQLAlchemy / SQL
+◆ Studying → SQLAlchemy / SQL     
 ```
 
 </td>
