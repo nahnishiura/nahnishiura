@@ -11,7 +11,7 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class → Backend                    
+◆ Class → Backend                 
 ◆ Origin → Brazil                 
 ◆ Stack → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL     
