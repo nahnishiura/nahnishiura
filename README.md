@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" />
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=nahnishiura&label=PROFILE+VIEWS&color=1f2937&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nahnishiura&label=PROFILE+VIEWS&color=6D28D9&style=flat" alt="profile views"/>
 
 <br><br>
 
@@ -13,9 +13,9 @@
 <td width="50%" valign="top">
 
 ```
-◆ Class   → Backend 
-◆ Origin  → Brazil 🇧🇷
-◆ Stack   → Python / FastAPI / Flask
+◆ Class    → Backend / Full-Stack Apprentice
+◆ Origin   → Brazil 🇧🇷
+◆ Stack    → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL
 ```
 
@@ -59,7 +59,7 @@
 </td>
 <td width="65%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=E5E7EB" width="100%"/>
 
 </td>
 </tr>
@@ -68,20 +68,16 @@
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahnishiura&theme=github-dark&hide_border=true&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahnishiura&theme=github-dark&hide_border=true&bg_color=0d1117&color=E5E7EB&line=8B5CF6&point=FFFFFF" width="100%"/>
 </p>
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens & Repositórios
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahnishiura&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahnishiura&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahnishiura&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFFFFF&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahnishiura&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=E5E7EB&bg_color=0D1117"/>
 </p>
 
 <br>
