@@ -11,10 +11,10 @@
 <td width="50%" align="center" valign="top">
 
 <pre>
-◆ Class → Backend                 
-◆ Origin → Brazil                 
-◆ Stack → Python / FastAPI / Flask
-◆ Studying → SQLAlchemy / SQL     
+୨ৎ Class → Backend                 
+୨ৎ Origin → Brazil                 
+୨ৎ Stack → Python / FastAPI / Flask
+୨ৎ Studying → SQLAlchemy / SQL     
 </pre>
 
 <br>
