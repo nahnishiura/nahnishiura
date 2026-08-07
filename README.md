@@ -59,11 +59,7 @@
 
 ### Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahnishiura&theme=github-dark&hide_border=true&bg_color=0d1117&color=E5E7EB&line=8B5CF6&point=FFFFFF" width="100%"/>
-</p>
-
-<br>
+<p align="center"> <img src="graph.gif" width="100%"/> </p> <br>
 
 ## 📊 Linguagens & Repositórios
 
