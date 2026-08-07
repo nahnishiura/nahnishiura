@@ -59,7 +59,7 @@
 
 ### Contribution Graph
 
-<p align="center"> <img src="novo.gif" width="100%"/> </p> <br>
+<p align="center"> <img src="_ (1).jpeg" width="100%"/> </p> <br>
 
 ## 📊 Linguagens & Repositórios
 
