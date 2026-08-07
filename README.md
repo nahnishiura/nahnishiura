@@ -1,13 +1,23 @@
-<div align="center"> <h1> <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" /> </h1> <br> 
+<div align="center">
 
-  <table> <tr> <td width="50%" align="center" valign="top"> <pre> 
-◆ Class → Backend                 
-◆ Origin → Brazil                 
-◆ Stack → Python / FastAPI / Flask 
-◆ Studying → SQLAlchemy / SQL     
-</pre> <br> 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" />
+</h1>
 
-</td> </tr> </table> <br>
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<pre>
+◆ Class    → Backend
+◆ Origin   → Brazil
+◆ Stack    → Python / FastAPI / Flask
+◆ Studying → SQLAlchemy / SQL
+</pre>
+
+<br>
 
 <img src="gif" width="90%"/>
 
@@ -15,6 +25,8 @@
 <td width="50%" align="center" valign="top">
 
 <img src="_ (1).gif" width="100%"/>
+
+<br>
 
 <sub><b>@nahnishiura</b></sub>
 
@@ -45,11 +57,28 @@
 
 ## 📈 Statistics
 
-<table> <tr> <td width="35%" align="center"> <img src="꒰ _ 🌸 。мαяιη ◟ `` ˖.jpeg" width="100%"/> </td> <td width="65%" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=E5E7EB" width="100%"/> </td> </tr> </table>
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="꒰ _ 🌸 。мαяιη ◟ `` ˖.jpeg" width="100%"/>
+
+</td>
+<td width="65%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=E5E7EB" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ### Contribution Graph
 
-<p align="center"> <img src="_.gif" width="100%"/> </p> <br>
+<p align="center">
+  <img src="_.gif" width="100%"/>
+</p>
+
+<br>
 
 ## 📊 Linguagens & Repositórios
 
