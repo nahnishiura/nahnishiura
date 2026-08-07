@@ -13,7 +13,7 @@
 <td width="50%" valign="top">
 
 ```
-◆ Class   → Backend 
+◆ Class   → Backend / Full-Stack Apprentice
 ◆ Origin  → Brazil 🇧🇷
 ◆ Stack   → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL
@@ -45,6 +45,31 @@
 - 🐍 Também tenho experiência com **Flask**
 - 🗃️ Atualmente estudando **SQLAlchemy** e **SQL**
 - 🌱 Sempre buscando entender melhor como sistemas funcionam por trás das telas
+
+<br>
+
+## 📈 Statistics
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="stats.gif" width="100%"/>
+
+</td>
+<td width="65%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahnishiura&theme=github-dark&hide_border=true&bg_color=0d1117" width="100%"/>
+</p>
 
 <br>
 
