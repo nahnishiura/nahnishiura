@@ -44,7 +44,7 @@
 
 <br>
 
-## 𝜗ৎ Sobre mim
+## ݁ ˖Ი𐑼⋆ Sobre mim
 
 -  ׅ 🪷Focada em **desenvolvimento Backend**
 -  ׅ 🪷Já sei construir APIs com **FastAPI**
