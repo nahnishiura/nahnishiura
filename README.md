@@ -11,7 +11,7 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class    → Backend                 
+◆ Class    → Backend                
 ◆ Origin   → Brazil                 
 ◆ Stack    → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL        
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="missa.jpg" width="90%"/>
+<img src="jpg(20)" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
