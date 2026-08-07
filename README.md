@@ -1,4 +1,11 @@
-<div align="center"> <h1> <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" /> </h1> <br> <table> <tr> <td width="50%" align="center" valign="top"> <pre> ◆ Class → Backend / Full-Stack Apprentice ◆ Origin → Brazil 🇧🇷 ◆ Stack → Python / FastAPI / Flask ◆ Studying → SQLAlchemy / SQL </pre> <br> <img src="jpg(20)" width="90%"/> </td> <td width="50%" align="center" valign="top"> <img src="banner.gif" width="100%"/> <br>
+<div align="center"> <h1> <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" /> </h1> <br> 
+
+  <table> <tr> <td width="50%" align="center" valign="top"> <pre> 
+◆ Class → Backend                 
+◆ Origin → Brazil                 
+◆ Stack → Python / FastAPI / Flask 
+◆ Studying → SQLAlchemy / SQL     
+</pre> <br> <img src="jpg(20)" width="90%"/> </td> <td width="50%" align="center" valign="top"> <img src="banner.gif" width="100%"/> <br>
 
 <sub><b>@nahnishiura</b></sub>
 
