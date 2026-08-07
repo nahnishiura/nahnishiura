@@ -11,10 +11,10 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class    → Backend / Full-Stack Apprentice
-◆ Origin   → Brazil 🇧🇷
+◆ Class    → Backend                 
+◆ Origin   → Brazil                 
 ◆ Stack    → Python / FastAPI / Flask
-◆ Studying → SQLAlchemy / SQL
+◆ Studying → SQLAlchemy / SQL        
 ```
 
 <br>
@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="banner.gif" width="100%" style="object-fit: cover; height: 100%;"/>
+<img src="banner.gif" width="100%"/>
 
 </td>
 </tr>
