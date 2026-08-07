@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="mnminii_pindown.io_1786061874.mp4" width="100%"/>
+<img src="banner.gif" width="100%"/>
 
 <sub><b>@nahnishiura</b></sub>
 
