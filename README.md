@@ -12,9 +12,9 @@
 
 <pre>
 ◆ Class → Backend                 
-◆ Origin → Brazil                
+◆ Origin → Brazil                 
 ◆ Stack → Python / FastAPI / Flask
-◆ Studying → SQLAlchemy / SQL    
+◆ Studying → SQLAlchemy / SQL     
 </pre>
 
 <br>
