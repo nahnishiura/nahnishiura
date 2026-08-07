@@ -56,6 +56,7 @@
 
 <table>
 <tr>
+<table> <tr> <td width="35%" align="center"> <img src="stats.jpg"
 <td width="35%" align="center">
 
 <img src="stats.gif" width="100%"/>
