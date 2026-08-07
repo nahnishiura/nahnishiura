@@ -11,8 +11,7 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class    → Backend / Full-Stack Apprentice
-◆ Origin   → Brazil 🇧🇷
+◆ Class    → Backend ◆ Origin   → Brazil 
 ◆ Stack    → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL
 ```
