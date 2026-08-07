@@ -26,6 +26,8 @@
 
 <img src="banner.gif" width="100%"/>
 
+<sub><b>@nahnishiura</b></sub>
+
 </td>
 </tr>
 </table>
