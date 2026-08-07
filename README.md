@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.gif" width="100%"/>
-
 <h1>
   <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" />
 </h1>
@@ -15,7 +13,7 @@
 <td width="50%" valign="top">
 
 ```
-◆ Class   → Backend / Full-Stack Apprentice
+◆ Class   → Backend 
 ◆ Origin  → Brazil 🇧🇷
 ◆ Stack   → Python / FastAPI / Flask
 ◆ Studying → SQLAlchemy / SQL
@@ -24,7 +22,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=280&lines=%3E+import+backend;%3E+building+APIs...;%3E+debugging...+again" />
+<img src="banner.gif" width="100%"/>
 
 </td>
 </tr>
