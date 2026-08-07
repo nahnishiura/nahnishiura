@@ -11,11 +11,15 @@
 <td width="50%" align="center" valign="top">
 
 ```
-◆ Class → Backend                 
-◆ Origin → Brazil                 
-◆ Stack → Python / FastAPI / Flask
-◆ Studying → SQLAlchemy / SQL     
+◆ Class    → Backend / Full-Stack Apprentice
+◆ Origin   → Brazil 🇧🇷
+◆ Stack    → Python / FastAPI / Flask
+◆ Studying → SQLAlchemy / SQL
 ```
+
+<br>
+
+<img src="missa.jpg" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -36,7 +40,7 @@
 
 <br>
 
-##  Sobre mim
+## 👩‍💻 Sobre mim
 
 - 🎓 Focada em **desenvolvimento Backend**
 - ⚡ Já sei construir APIs com **FastAPI**
