@@ -1,8 +1,4 @@
-<div align="center">
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura"
-</h1>
+<div align="center"> <h1> <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Backend+Developer;Nishiura" /> </h1> <br> <table> <tr> <td width="50%" align="center" valign="top">
 
 <br>
 
