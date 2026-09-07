@@ -11,11 +11,11 @@
 <td width="50%" align="center" valign="top">
 
 <pre>
-╋━                                                                                                           
-✘ Class → Backend                                                                                             
-✘ Origin → Brazil                                                                                             
-✘ Distrito → Arch Linux                                                                                       
-✘ Stack → Python / FastAPI / Flask                                                                            
+╋━ 
+✘ Class → Backend 
+✘ Origin → Brazil
+✘ Distrito → Arch Linux
+✘ Stack → Python / FastAPI / Flask
 </pre>
 
 <br>
