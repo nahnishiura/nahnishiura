@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="_ (1).gif" width="100%"/>
+<img src="fuck anime.gif" width="100%"/>
 
 <br>
 
