@@ -13,12 +13,15 @@
 
 <div align="center">
 
+
+
 | | |
 |---|---|
-| ❌ **Class** | Backend |
-| ❌ **Origin** | Brazil |
-| ❌ **Distrito** | Arch Linux |
-| ❌ **Stack** | Python / FastAPI / Flask |
+| ╋━ **Class** | Backend |
+| ╋━ **Origin** | Brazil |
+| ╋━ **Distrito** | Arch Linux |
+| ╋━ **Stack** | Python / FastAPI / Flask |
+
 
 </div>
 
