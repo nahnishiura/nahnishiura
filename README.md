@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="Death Note.gif" width="90%"/>
+<img src="Aprendendo com Animes Death Note.gif" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
