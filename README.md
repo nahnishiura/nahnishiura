@@ -37,6 +37,9 @@
 <br>
 
 <sub><b>@nahnishiura</b></sub>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=instagram,discord" />
+</p>
 
 </td>
 </tr>
