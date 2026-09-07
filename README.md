@@ -10,7 +10,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<pre>
+
 <div align="center">
 
 | | |
