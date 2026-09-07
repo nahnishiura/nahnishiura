@@ -12,10 +12,10 @@
 
 <pre>
 ╋━                                                                                      
-✘ Class → Backend                                                                                  
-✘ Origin → Brazil                                                
+✘ Class → Backend                                                                                
+✘ Origin → Brazil                                                                                
 ✘ Distrito → Arch Linux                                                                                
-✘ Stack → Python / FastAPI / Flask                                                            
+✘ Stack → Python / FastAPI / Flask                                                                            
 </pre>
 
 <br>
