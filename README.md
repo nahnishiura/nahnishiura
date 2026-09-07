@@ -11,12 +11,16 @@
 <td width="50%" align="center" valign="top">
 
 <pre>
-╋━ 
-✘ Class → Backend 
-✘ Origin → Brazil
-✘ Distrito → Arch Linux
-✘ Stack → Python / FastAPI / Flask
-</pre>
+<div align="center">
+
+| | |
+|---|---|
+| ❌ **Class** | Backend |
+| ❌ **Origin** | Brazil |
+| ❌ **Distrito** | Arch Linux |
+| ❌ **Stack** | Python / FastAPI / Flask |
+
+</div>
 
 <br>
 
