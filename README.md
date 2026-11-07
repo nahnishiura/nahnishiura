@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="5da8c235122ee1241e4e1c438fc60f6e_720w.gif" width="90%"/>
+<img src="ghost-animation-art-ghost-gif-anime-gif-long-whi-1.gif" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
