@@ -54,15 +54,3 @@
 </div>
 
 <br>
-
-
-
-## 📌 Em estudo agora
-
-| Tecnologia | Status |
-|---|---|
-| Python | ✅ Sólido |
-| FastAPI | ✅ Já domino o básico/intermediário |
-| Flask | 🟡 Conheço, uso quando preciso |
-| SQLAlchemy | 🔵 Estudando |
-| SQL | 🔵 Estudando |
