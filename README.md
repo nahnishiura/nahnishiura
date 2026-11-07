@@ -27,12 +27,12 @@
 
 <br>
 
-<img src="Aprendendo com Animes Death Note.gif" width="90%"/>
+<img src="ghost-animation-art-ghost-gif-anime-gif-long-whi-1.mp4" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="ghost-animation-art-ghost-gif-anime-gif-long-whi-1.mp4" width="80%"/>
+<img src="ghost-animation-art-ghost-gif-anime-gif-long-whi-1.mp4" width="100%"/>
 
 <br>
 
