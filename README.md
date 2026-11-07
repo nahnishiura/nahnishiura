@@ -32,7 +32,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="Support ૮҂_ ․ ა ❤️.jpeg" width="100%"/>
+<img src="./support.jpeg" width="100%"/>
 
 <br>
 
